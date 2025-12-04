@@ -1,11 +1,10 @@
 ## Description
-Please provide a clear and concise description of the changes introduced by this pull request.
-Explain the problem it solves or the feature it implements.
+What is the purpose and implication of these changes? Are there any breaking changes, known issues or examples that would be helpful to demonstrate these changes?
 
-## How Has This Been Tested?
-Describe the testing you performed to ensure the changes work as expected.
-Include details about test cases, environments, or manual testing steps.
+## Testing/Screenshots
+What steps did you take in order to test these changes? Are there any examples of test results that you can show?
 
-## Screenshots
-If this is a UI change or some result can be demonstrated with an image
-then include it in this section.
+If this is a frontend change please include screenshots for the reviewer.
+
+## Documentation
+Have you updated the documentation (eg. README.md) to match the changes in this PR?
