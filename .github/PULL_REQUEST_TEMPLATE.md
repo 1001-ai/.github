@@ -1,21 +1,15 @@
 ## Summary
-> Summarize the purpose of this PR and the implications of merging it.
 
-<Add response here>
-
-"[section for user to review/add any additional context]"
+<Why this PR exists and what merging it implies. One or two short paragraphs.>
 
 ## Changes
-> What changed in this PR.
 
-<Add response here - should be a list of major changes, breaking changes, known issues>
+<List of major changes, breaking changes, known issues.>
 
 ## Testing/Screenshots
-> How was this tested? Include screenshots for frontend changes.
 
-<Add response here>
+<How this was tested. Include screenshots for frontend changes.>
 
 ## Documentation
-> Were docs (e.g. README) updated to reflect these changes?
 
-<Add response here>
+<Were docs (e.g. README) updated to reflect these changes? If not, why not.>
